@@ -45,7 +45,6 @@
             <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a> 
-
             <a href="https://affinity.serif.com/" target="_blank" rel="noreferrer"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Affinity_designer_icon_2019.png/600px-Affinity_designer_icon_2019.png"
             alt="affinity" width="40" height="40" /> </a> </p>
