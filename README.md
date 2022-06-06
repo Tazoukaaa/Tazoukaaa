@@ -51,8 +51,5 @@
             
             
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Tazoukaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tazoukaaaaa" height="30" width="40" /></a>
-<a href="https://instagram.com/xerwanv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xerwanv" height="30" width="40" /></a>
-<a href="https://discord.gg/vBT4FamAQX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="napolia-commu" height="30" width="40" /></a>
-</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
