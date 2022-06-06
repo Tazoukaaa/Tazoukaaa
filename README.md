@@ -51,6 +51,6 @@
             
             
 <h3 align="left">Connect with me:</h3>
-###
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<div align="center">
+   <a href="https://cyrnax24.github.io/profile" target="_blank"><img src="https://imgur.com/7GCmlaZ.png" align="center" /></a>
+</div>
