@@ -48,9 +48,3 @@
             <a href="https://affinity.serif.com/" target="_blank" rel="noreferrer"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Affinity_designer_icon_2019.png/600px-Affinity_designer_icon_2019.png"
             alt="affinity" width="40" height="40" /> </a> </p>
-            
-            
-<h3 align="left">Connect with me:</h3>
-<div align="center">
-   <a href="https://cyrnax24.github.io/profile" target="_blank"><img src="https://imgur.com/7GCmlaZ.png" align="center" /></a>
-</div>
