@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-> Je suis développeur fullstack, développeur d'applications mobiles, designer web/graphique/programme, graphiste, concevant/utilisant des apis et architecte de données. Actuellement, je peux travailler avec des entreprises internationales et des particuliers. Vous pouvez me joindre par [mail](mailto:tazoukperso@gmail.com) ou discord (Tazoukaaa#0001)
+> I am a fullstack developer, mobile application developer, web/graphic/programming designer, graphic designer, apis designer/user and data architect. Currently, I can work with international companies and individuals. You can reach me by [mail](mailto:tazoukperso@gmail.com) or discord (Tazoukaaa#0001)
 
 - 👷 I am able to touch many languages according to the requests
 - 👶🇷 I was born near Vernon (27), I live in Agen (47) France.
@@ -50,4 +50,9 @@
             alt="affinity" width="40" height="40" /> </a> </p>
             
             
-Email me about your [contact@joellesenne.dev](mailto:contact@joellesenne.dev) project, see my [CV](http://cv.joellesenne.dev/), my [lab](http://lab.joellesenne.dev/) or find me on other platforms: [Dribbble](https://dribbble.com/joellesenne) [Instagram](https://www.instagram.com/joellesenne) [Codepen](https://codepen.io/joellesenne) [Github](https://github.com/joellesenne) & [Twitter](https://twitter.com/joellesenne)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Tazoukaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tazoukaaaaa" height="30" width="40" /></a>
+<a href="https://instagram.com/xerwanv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xerwanv" height="30" width="40" /></a>
+<a href="https://discord.gg/vBT4FamAQX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="napolia-commu" height="30" width="40" /></a>
+</p>
