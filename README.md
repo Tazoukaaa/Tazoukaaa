@@ -49,4 +49,5 @@
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Affinity_designer_icon_2019.png/600px-Affinity_designer_icon_2019.png"
             alt="affinity" width="40" height="40" /> </a> </p>
             
+            
 Email me about your [contact@joellesenne.dev](mailto:contact@joellesenne.dev) project, see my [CV](http://cv.joellesenne.dev/), my [lab](http://lab.joellesenne.dev/) or find me on other platforms: [Dribbble](https://dribbble.com/joellesenne) [Instagram](https://www.instagram.com/joellesenne) [Codepen](https://codepen.io/joellesenne) [Github](https://github.com/joellesenne) & [Twitter](https://twitter.com/joellesenne)
