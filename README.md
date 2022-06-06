@@ -51,5 +51,6 @@
             
             
 <h3 align="left">Connect with me:</h3>
+###
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
