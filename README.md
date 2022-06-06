@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi everyone 👋
 
-> freelance web developer in Lyon, I create web sites experiences for your personal or professional activities...
+> Je suis développeur fullstack, développeur d'applications mobiles, designer web/graphique/programme, graphiste, concevant/utilisant des apis et architecte de données. Actuellement, je peux travailler avec des entreprises internationales et des particuliers. Vous pouvez me joindre par [mail](mailto:tazoukperso@gmail.com) ou [discord](copyText:Tazoukaaa#0001)
 
 - 👷 I am a developer and integrator Web
 - 🇫🇷 I was born near Lille (59), I live in Lyon (69) France.
