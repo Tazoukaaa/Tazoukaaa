@@ -47,4 +47,7 @@
             alt="typescript" width="40" height="40" /> </a> 
             <a href="https://affinity.serif.com/" target="_blank" rel="noreferrer"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Affinity_designer_icon_2019.png/600px-Affinity_designer_icon_2019.png"
-            alt="affinity" width="40" height="40" /> </a> </p>
+            alt="affinity" width="40" height="40" /> </a>
+            <a href="https://fr.wikipedia.org/wiki/Visual_Basic_.NET" target="_blank" rel="noreferrer"> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg"
+            alt="vbnet" width="40" height="40" /> </a></p>
