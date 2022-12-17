@@ -6,6 +6,8 @@
 - 👶🇷 I was born near Vernon (27), I live in Agen (47) France.
 - 💻 I creates interfaces UX / UI original and modern
 
+> Find all my projects <a href="https://tazoukaa.fr">here</a>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
             <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img
