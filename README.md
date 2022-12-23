@@ -53,27 +53,22 @@
             <a href="https://fr.wikipedia.org/wiki/Visual_Basic_.NET" target="_blank" rel="noreferrer"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg"
             alt="vbnet" width="40" height="40" /> </a>
-
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a>
-
             <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
             alt="docker" width="40" height="40" /> </a>
-
             <a href="https://fr.reactjs.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a>
-
             <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
             alt="php" width="40" height="40" /> </a>
-
             <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img
             src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4"
             alt="vuejs" width="40" height="40" /> </a>
-
             <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img
             src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/1148/formation-flutter.png"
-            alt="flutter" width="40" height="40" /> </a></p>
+            alt="flutter" width="40" height="40" /> </a>
+</p>
