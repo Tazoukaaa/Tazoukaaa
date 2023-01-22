@@ -3,10 +3,11 @@
 > I am a fullstack developer, mobile application developer, web/graphic/programming designer, graphic designer, apis designer/user and data architect. Currently, I can work with international companies and individuals. You can reach me by [mail](mailto:tazoukperso@gmail.com) or discord (Tazoukaa#1920)
 
 - 👷 I am able to touch many languages according to the requests
-- 👶🇷 I was born near Vernon (27), I live in Agen (47) France.
+- 👶 I was born near Vernon (27), I live in Agen (47) France.
 - 💻 I creates interfaces UX / UI original and modern
+- 🖌 I love graphic design, I mainly do it in my free time.
 
-> Find all my projects <a style="cursor:pointer;" title="Indisponible">here</a>
+> Find all my projects <a style="cursor:pointer;" href="https://tazoukaa.tk/">here</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -78,3 +79,5 @@
             src="https://camo.githubusercontent.com/1b8a779f280e099e2d67ab949dad604e25ce0d321e66474c04430201790b3874/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667"
             alt="sqlite" width="40" height="40" /> </a>
 </p>
+
+doživotne
