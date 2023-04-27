@@ -13,7 +13,6 @@
 <p align="left"> 
             <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a>
-            
             <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
             alt="cplusplus" width="40" height="40" /> </a> 
@@ -41,7 +40,6 @@
             <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a> 
-          
             <a href="https://affinity.serif.com/" target="_blank" rel="noreferrer"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Affinity_designer_icon_2019.png/600px-Affinity_designer_icon_2019.png"
             alt="affinity" width="40" height="40" /> </a>
@@ -60,8 +58,6 @@
             <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
             alt="php" width="40" height="40" /> </a>
-         
-            <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img
-            src="https://camo.githubusercontent.com/1b8a779f280e099e2d67ab949dad604e25ce0d321e66474c04430201790b3874/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667"
+            <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/1b8a779f280e099e2d67ab949dad604e25ce0d321e66474c04430201790b3874/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667"
             alt="sqlite" width="40" height="40" /> </a>
 </p>
