@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-> I am a fullstack developer, mobile application developer, web/graphic/programming designer, graphic designer, apis designer/user and data architect. Currently, I can work with international companies and individuals. You can reach me by [mail](mailto:tazoukperso@gmail.com) or discord (Tazoukaa#1920)
+> I am a fullstack developer, mobile application developer, web/graphic/programming designer, graphic designer, apis designer/user and data architect. Currently, I can work with individuals. You can reach me by [mail](mailto:tazoukperso@gmail.com) or discord (Tazoukaa#1920)
 
 - 👷 I am able to touch many languages according to the requests
 - 👶 I was born near Vernon (27), I live in Agen (47) France.
